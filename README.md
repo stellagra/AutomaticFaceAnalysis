@@ -47,14 +47,14 @@ Please note that this repo is under development. Feel free to reach out for addi
 
 
 ## Models
-publicly available models.
-- Candide-3: 3D wireframe model: 113 3D vertices
-- 
+Publicly available models.
+- [Candide-3](candide3.md): 3D wireframe model: 113 3D vertices connected with triangles, parameters for changing of the shape and expression of the 3D face
+- [Basel Face Model](https://faces.dmi.unibas.ch/bfm/) - 3D Morphable Face Model (Shape and Texture)
 
 ## Tools
-- dlib
-- Mediapipe
-- OpenFace
+- [dlib](http://dlib.net/)
+- [Mediapipe](https://developers.google.com/mediapipe/)
+- [OpenFace](https://openface-api.readthedocs.io/en/latest/)
 
 ## Contact
 [Stella Grasshof](https://pure.itu.dk/en/persons/stella-grasshof) - IT University of Copenhagen
