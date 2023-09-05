@@ -14,7 +14,7 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 - [JAFFE](https://zenodo.org/record/3451524) (1998): 10 Japanese female expressers, 7 Posed Facial Expressions (6 basic facial expressions + 1 neutral), Several images of each expression for each expresser 
 213 images total, each image has averaged semantic ratings on 6 facial expressions by 60 Japanese viewers. available upon request for non-commercial scientific research 
 - [DASPS database ](https://ieee-dataport.org/open-access/dasps-database) (2021): raw EEG data collected from the 23 participants during anxiety. "We provided a matlab script for the segmentation of each EEG signal into 6 segments corresponding to the 6 situations.".
-- [ardiff Conversation Database (CCDb)](https://ccdb.cs.cf.ac.uk/) (2013): audio-visual natural conversation database with 2D and 3D data. access upon request
+- [Cardiff Conversation Database (CCDb)](https://ccdb.cs.cf.ac.uk/) (2013): audio-visual natural conversation database with 2D and 3D data. access upon request
 - [EMU: Early Mental Health Uncovering](https://github.com/mltlachac/EMU) (2021)
 - more datasets: [here](https://emutivo.wpi.edu/index.php/data/)
 - "The Turkish Audio-Visual Bipolar Disorder Corpus", Ciftci, Kaya (2018). audio-visual Bipolar Disorder (BD) corpus for the affective computing and psychiatric communities - has become unavailable. Time period of permitted use ran out. (add to list of deprecated databases?)
@@ -81,10 +81,10 @@ Publicly available models.
 - [Mediapipe](https://developers.google.com/mediapipe/)
 - [OpenFace](https://openface-api.readthedocs.io/en/latest/)
 
+## Related Project Page
+[Affective Computing](https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange)
+
 ## Contact
 [Stella Grasshof](https://pure.itu.dk/en/persons/stella-grasshof) - IT University of Copenhagen
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
-
-
-
