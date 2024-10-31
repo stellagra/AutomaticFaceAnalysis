@@ -81,6 +81,9 @@ Publicly available models.
 - [Mediapipe](https://developers.google.com/mediapipe/)
 - [OpenFace](https://openface-api.readthedocs.io/en/latest/)
 
+## audio
+[speech data with depression labels](https://github.com/speechandlanguageprocessing/ICASSP2022-Depression)
+
 ## Related Project Page
 [Affective Computing](https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange)
 
