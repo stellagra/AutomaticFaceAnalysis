@@ -1,10 +1,11 @@
 # Automatic Face Analysis
 
 This repository shall provide a collection about databases and tools for the analysis of faces. 
-Please note that this repo is under development. Feel free to reach out for additions, and/or corrections. Access rights to the databases might change or licenses might run out. 
+Please note that this repo is under development. Feel free to reach out for additions, and/or corrections. If you find a link or reference is outdated, I am happy to receive your feedback for corrections. 
+Access rights to the databases might change or licenses might run out. 
 
-Important note:
-I do not own any of the following databases. For quesitons about access and details, please contact the respective authors. 
+**Important note:** 
+I do not own any of the following databases. For questions about access and details, please contact the respective authors. 
 
 
 ## Datasets
@@ -85,6 +86,7 @@ Publicly available models.
 - [dlib](http://dlib.net/)
 - [Mediapipe](https://developers.google.com/mediapipe/)
 - [OpenFace](https://openface-api.readthedocs.io/en/latest/)
+- PyAFAR: Python-based Automated Facial Action Recognition library for use in Infants and Adults: [website](https://pyafar.org/), [github](https://github.com/AffectAnalysisGroup/PyAFAR)
 
 ## audio
 [speech data with depression labels](https://github.com/speechandlanguageprocessing/ICASSP2022-Depression)
