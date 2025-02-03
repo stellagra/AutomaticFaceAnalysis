@@ -3,6 +3,9 @@
 This repository shall provide a collection about databases and tools for the analysis of faces. 
 Please note that this repo is under development. Feel free to reach out for additions, and/or corrections. Access rights to the databases might change or licenses might run out. 
 
+Important note:
+I do not own any of the following databases. For quesitons about access and details, please contact the respective authors. 
+
 
 ## Datasets
 unsorted list coming. Below you find some tables, in an attempt to sort the information. 
