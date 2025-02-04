@@ -86,6 +86,7 @@ Publicly available models.
 - [dlib](http://dlib.net/)
 - [Mediapipe](https://developers.google.com/mediapipe/)
 - [OpenFace](https://openface-api.readthedocs.io/en/latest/)
+- [Python Facial Expression Analysis Toolbox (Py-Feat)](https://py-feat.org/pages/intro.html)
 - PyAFAR: Python-based Automated Facial Action Recognition library for use in Infants and Adults: [website](https://pyafar.org/), [github](https://github.com/AffectAnalysisGroup/PyAFAR)
 
 ## audio
