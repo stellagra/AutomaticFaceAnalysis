@@ -25,6 +25,7 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 - 2do: check all AVEC, e.g. [AVEC2013](https://github.com/chkche1/avec2013), [AVEC2019](https://sites.google.com/view/avec2019/home) for availabilty
 - 2do: more [face rec databases](https://www.face-rec.org/databases/)
 - 2do: [Binghamton Face Databases](https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
+- 2do: [Wizard of Oz](https://dcapswoz.ict.usc.edu/)
 
 <!-- Files have not yet been uploaded: for "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
 
