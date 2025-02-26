@@ -33,6 +33,7 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 - [The City Infant Faces Database: A validated set of infant facial expressions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/)  "60 photographs of positive infant faces, 54 photographs of negative infant faces, and 40 photographs of neutral infant faces."
 - [Tromsø Infant Faces Database](https://uit.no/project/norbaby/database) contains 119 images of infant facial expressions
 - [The Child Affective Facial Expressions Set (CAFE)](https://www.childstudycenter-rutgers.com/the-child-affective-facial-expression-se)
+- [A Dataset of Eye Movements for the Children with Autism Spectrum Disorder](https://zenodo.org/records/2647418)
 
 ### Facial Expression Databases
 <!-- Usage of the table
