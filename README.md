@@ -69,7 +69,7 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 |Name|Year|Description|Number of Subjects|Mental Disorder|Labels|Modalities|Availability|
 |:-|:-|:-|:-:|:-:|:-|:-|:-:|
 |[Depresjon](https://datasets.simula.no/depresjon)|2018| A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients| 55 |depression, unipolar/bipolar|MADRS|motor activity recordings|free to download|
-|[AVEC2014]()|2014| The Audio/Visual Emotion Challenge and Workshop | xx | depression | PHQ | | upon request|
+| AVEC2014 |2014| The Audio/Visual Emotion Challenge and Workshop | xx | depression | PHQ | | upon request|
 |[AVEC2013](https://github.com/chkche1/avec2013)|2013| The Audio/Visual Emotion Challenge and Workshop | 292 | depression |BDI, valence, arousal|audio features|free to download|
 |-|
 
