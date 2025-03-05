@@ -26,6 +26,7 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 - 2do: more [face rec databases](https://www.face-rec.org/databases/)
 - 2do: [Binghamton Face Databases](https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
 - 2do: [Wizard of Oz](https://dcapswoz.ict.usc.edu/)
+- [promising overview](https://www.mdpi.com/1424-8220/22/4/1524)
 
 <!-- Files have not yet been uploaded: for "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
 
