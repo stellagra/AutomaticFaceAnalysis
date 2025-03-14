@@ -11,22 +11,23 @@ I do not own any of the following databases. For questions about access and deta
 ## Datasets
 unsorted list coming. Below you find some tables, in an attempt to sort the information. 
 
-- [Depresjon](https://datasets.simula.no/depresjon/) [kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset) (2018): A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients:  motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls. - freely available
-- [YouTube Facial Palsy (YFP) Database](https://sites.google.com/view/yfp-database#h.p_DaUvW9mE7B_g) (2018): 32 videos of 21 patients from YouTube, and  a few patients have multiple videos. available upon request
-- [Aff-Wild2](https://ibug.doc.ic.ac.uk/resources/aff-wild2/) (2019): The Aff-Wild2 is annotated in a per frame basis for the seven basic expressions (i.e., happiness, surprise, anger, disgust, fear, sadness and the neutral state), twelve action units (AUs 1,2,4,6,7,10,12,15,23,24,25, 26) and valence and arousal. In total Aff-Wild2 consists of 564 videos of around 2.8M frames with 554 subjects (326 of which are male and 228 female). All videos have been annotated in terms of valence and arousal. 546 videos of around 2.6M frames have been annotated in terms of the basic expressions. 541 videos of around 2.6M frames have been annotated in terms of action units. Aff-Wild2 displayes a big diversity in terms of subjects' ages, ethnicities and nationalities; it has also great variations and diversities of environments. Available upon request for academia and industry
-- [RAVDESS](https://zenodo.org/record/1188976#.ZCPaFC8Robx) (2018): The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) contains 7356 files (total size: 24.8 GB). The database contains 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent. - under a Creative Commons Attribution 
-- [JAFFE](https://zenodo.org/record/3451524) (1998): 10 Japanese female expressers, 7 Posed Facial Expressions (6 basic facial expressions + 1 neutral), Several images of each expression for each expresser 
-213 images total, each image has averaged semantic ratings on 6 facial expressions by 60 Japanese viewers. available upon request for non-commercial scientific research 
-- [DASPS database ](https://ieee-dataport.org/open-access/dasps-database) (2021): raw EEG data collected from the 23 participants during anxiety. "We provided a matlab script for the segmentation of each EEG signal into 6 segments corresponding to the 6 situations.".
-- [Cardiff Conversation Database (CCDb)](https://ccdb.cs.cf.ac.uk/) (2013): audio-visual natural conversation database with 2D and 3D data. access upon request
-- [EMU: Early Mental Health Uncovering](https://github.com/mltlachac/EMU) (2021)
-- more datasets: [here](https://emutivo.wpi.edu/index.php/data/)
-- "The Turkish Audio-Visual Bipolar Disorder Corpus", Ciftci, Kaya (2018). audio-visual Bipolar Disorder (BD) corpus for the affective computing and psychiatric communities - has become unavailable. Time period of permitted use ran out. (add to list of deprecated databases?)
-- 2do: check all AVEC, e.g. [AVEC2013](https://github.com/chkche1/avec2013), [AVEC2019](https://sites.google.com/view/avec2019/home) for availabilty
-- 2do: more [face rec databases](https://www.face-rec.org/databases/)
-- 2do: [Binghamton Face Databases](https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
-- 2do: [Wizard of Oz](https://dcapswoz.ict.usc.edu/)
-- [promising overview](https://www.mdpi.com/1424-8220/22/4/1524)
+* [EMU: Early Mental Health Uncovering](https://github.com/mltlachac/EMU) (2021)
+   * availibility: ?
+* [Depresjon](https://datasets.simula.no/depresjon/) [kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset) (2018):
+   * A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients:  motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls.
+   * freely available
+* [YouTube Facial Palsy (YFP) Database](https://sites.google.com/view/yfp-database#h.p_DaUvW9mE7B_g) (2018): 32 videos of 21 patients from YouTube, and  a few patients have multiple videos. available upon request
+* [Aff-Wild2](https://ibug.doc.ic.ac.uk/resources/aff-wild2/) (2019): The Aff-Wild2 is annotated in a per frame basis for the seven basic expressions (i.e., happiness, surprise, anger, disgust, fear, sadness and the neutral state), twelve action units (AUs 1,2,4,6,7,10,12,15,23,24,25, 26) and valence and arousal. In total Aff-Wild2 consists of 564 videos of around 2.8M frames with 554 subjects (326 of which are male and 228 female). All videos have been annotated in terms of valence and arousal. 546 videos of around 2.6M frames have been annotated in terms of the basic expressions. 541 videos of around 2.6M frames have been annotated in terms of action units. Aff-Wild2 displayes a big diversity in terms of subjects' ages, ethnicities and nationalities; it has also great variations and diversities of environments. Available upon request for academia and industry
+* [RAVDESS](https://zenodo.org/record/1188976#.ZCPaFC8Robx) (2018): The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) contains 7356 files (total size: 24.8 GB). The database contains 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent. - under a Creative Commons Attribution 
+* [JAFFE](https://zenodo.org/record/3451524) (1998):
+   * 10 Japanese female expressers, 7 Posed Facial Expressions (6 basic facial expressions + 1 neutral), Several images of each expression for each expresser
+   * 213 images total, each image has averaged semantic ratings on 6 facial expressions by 60 Japanese viewers. available upon request for non-commercial scientific research 
+* [DASPS database ](https://ieee-dataport.org/open-access/dasps-database) (2021):
+   * raw EEG data collected from the 23 participants during anxiety. "We provided a matlab script for the segmentation of each EEG signal into 6 segments corresponding to the 6 situations.".
+* [Cardiff Conversation Database (CCDb)](https://ccdb.cs.cf.ac.uk/) (2013): audio-visual natural conversation database with 2D and 3D data.
+   * access upon request
+* "The Turkish Audio-Visual Bipolar Disorder Corpus", Ciftci, Kaya (2018). audio-visual Bipolar Disorder (BD) corpus for the affective computing and psychiatric communities
+   * has become unavailable. Time period of permitted use ran out. 
 
 <!-- Files have not yet been uploaded: for "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
 
@@ -88,11 +89,6 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 |[AVEC2013](https://github.com/chkche1/avec2013)|2013| The Audio/Visual Emotion Challenge and Workshop | 292 | depression |BDI, valence, arousal|audio features|free to download|
 |-|
 
-## Related Human Motion Databases
-2do: add to another repo
-- [AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training](https://fit3d.imar.ro/)
-- [Human3.6M](http://vision.imar.ro/human3.6m/description.php) 
-
 
 ## Tools
 ### Facial Action Units and more
@@ -112,8 +108,21 @@ Publicly available models.
 ## Audio
 [speech data with depression labels](https://github.com/speechandlanguageprocessing/ICASSP2022-Depression)
 
+## Related Human Motion Databases
+2do: add to another repo
+- [AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training](https://fit3d.imar.ro/)
+- [Human3.6M](http://vision.imar.ro/human3.6m/description.php) 
+
 ## Related Project Page
 [Affective Computing](https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange)
+
+## 2DO
+* check all AVEC, e.g. [AVEC2013](https://github.com/chkche1/avec2013), [AVEC2019](https://sites.google.com/view/avec2019/home) for availabilty
+* more [face rec databases](https://www.face-rec.org/databases/)
+* [Binghamton Face Databases](https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
+* [Wizard of Oz](https://dcapswoz.ict.usc.edu/)
+* [promising overview](https://www.mdpi.com/1424-8220/22/4/1524)
+* more datasets: [here](https://emutivo.wpi.edu/index.php/data/)
 
 ## Contact
 [Stella Grasshof](https://pure.itu.dk/en/persons/stella-grasshof) - IT University of Copenhagen
