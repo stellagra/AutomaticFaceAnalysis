@@ -11,9 +11,9 @@ I do not own any of the following databases. For questions about access and deta
 ## Datasets
 unsorted list coming. Below you find some tables, in an attempt to sort the information. 
 
+- [Depresjon](https://datasets.simula.no/depresjon/) [kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset) (2018): A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients:  motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls. - freely available
 - [YouTube Facial Palsy (YFP) Database](https://sites.google.com/view/yfp-database#h.p_DaUvW9mE7B_g) (2018): 32 videos of 21 patients from YouTube, and  a few patients have multiple videos. available upon request
 - [Aff-Wild2](https://ibug.doc.ic.ac.uk/resources/aff-wild2/) (2019): The Aff-Wild2 is annotated in a per frame basis for the seven basic expressions (i.e., happiness, surprise, anger, disgust, fear, sadness and the neutral state), twelve action units (AUs 1,2,4,6,7,10,12,15,23,24,25, 26) and valence and arousal. In total Aff-Wild2 consists of 564 videos of around 2.8M frames with 554 subjects (326 of which are male and 228 female). All videos have been annotated in terms of valence and arousal. 546 videos of around 2.6M frames have been annotated in terms of the basic expressions. 541 videos of around 2.6M frames have been annotated in terms of action units. Aff-Wild2 displayes a big diversity in terms of subjects' ages, ethnicities and nationalities; it has also great variations and diversities of environments. Available upon request for academia and industry
-- [Depresjon](https://datasets.simula.no/depresjon/) [kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset) (2018): A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients:  motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls. - freely available
 - [RAVDESS](https://zenodo.org/record/1188976#.ZCPaFC8Robx) (2018): The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) contains 7356 files (total size: 24.8 GB). The database contains 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent. - under a Creative Commons Attribution 
 - [JAFFE](https://zenodo.org/record/3451524) (1998): 10 Japanese female expressers, 7 Posed Facial Expressions (6 basic facial expressions + 1 neutral), Several images of each expression for each expresser 
 213 images total, each image has averaged semantic ratings on 6 facial expressions by 60 Japanese viewers. available upon request for non-commercial scientific research 
@@ -31,10 +31,21 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 <!-- Files have not yet been uploaded: for "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
 
 ### Infant Datbases
-- [The City Infant Faces Database: A validated set of infant facial expressions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/)  "60 photographs of positive infant faces, 54 photographs of negative infant faces, and 40 photographs of neutral infant faces."
-- [Tromsø Infant Faces Database](https://uit.no/project/norbaby/database) contains 119 images of infant facial expressions
-- [The Child Affective Facial Expressions Set (CAFE)](https://www.childstudycenter-rutgers.com/the-child-affective-facial-expression-se)
-- [A Dataset of Eye Movements for the Children with Autism Spectrum Disorder](https://zenodo.org/records/2647418)
+* [The City Infant Faces Database: A validated set of infant facial expressions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/) 
+    *  60 photographs of positive infant faces, 54 photographs of negative infant faces, and 40 photographs of neutral infant faces.
+    *  available upon request (for researchers)
+* [Tromsø Infant Faces Database](https://uit.no/project/norbaby/database)
+    * 119 images of infant facial expressions
+    * available upon request (for researchers)
+* [A Dataset of Eye Movements for the Children with Autism Spectrum Disorder](https://zenodo.org/records/2647418)
+    * 300 natural scene images and the corresponding eye movement
+    * 14 children with ASD and 14 healthy controls
+    * reference: H. Duan, G. Zhai, X. Min, Z. Che, Y. Fang, X. Yang, J. Gutiérrez, P. Le Callet, "A Dataset of Eye Movements for the Children with Autism Spectrum Disorder", ACM Multimedia Systems Conference (MMSys'19), Jun. 2019.
+    * available: free to download
+* [The Child Affective Facial Expressions Set (CAFE)](https://www.childstudycenter-rutgers.com/the-child-affective-facial-expression-se)
+    * 1200 photographs of over 100 children  (ages 2-8) making 7 different facial expressions - happy, angry, sad, fearful, surprise, neutral, and disgust.
+    * reference: LoBue, V. & Thrasher, C. (2015). The Child Affective Facial Expression (CAFE) Set: Validity and reliability from untrained adults. Frontiers in Emotion Science, 5.
+    * available: upon request for researchers
 
 ### Facial Expression Databases
 <!-- Usage of the table
@@ -44,8 +55,9 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
     Tags: tags of the dataset e.g "audio" : :sound: , "video" : :movie_camera: , "image" : :camera:
     link: link to the dataset
     Licence: In what context is the dataset allowed to be used e.g "research only"
-
+|Name|Number of Participants |Number of samples | Modalities | Task Type |Availability|
  -->
+
 
 |Name|Description|Number of Subjects|Number of images/videos|Facial Expressions|Modalities|Licence|
 |:-|:-|:-:|:-:|:-|:-|:-:|
