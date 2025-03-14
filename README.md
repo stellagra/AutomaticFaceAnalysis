@@ -81,19 +81,23 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 - [AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training](https://fit3d.imar.ro/)
 - [Human3.6M](http://vision.imar.ro/human3.6m/description.php) 
 
+
+## Tools
+### Facial Action Units and more
+- [OpenFace](https://openface-api.readthedocs.io/en/latest/)
+- [Python Facial Expression Analysis Toolbox (Py-Feat)](https://py-feat.org/pages/intro.html)
+- PyAFAR: Python-based Automated Facial Action Recognition library for use in Infants and Adults: [website](https://pyafar.org/), [github](https://github.com/AffectAnalysisGroup/PyAFAR)
+
+### Facial Landmarks only
+- [dlib](http://dlib.net/)
+- [Mediapipe](https://developers.google.com/mediapipe/)
+
 ## Models
 Publicly available models.
 - [Candide-3](candide3.md): 3D wireframe model: 113 3D vertices connected with triangles, parameters for changing of the shape and expression of the 3D face
 - [Basel Face Model](https://faces.dmi.unibas.ch/bfm/) - 3D Morphable Face Model (Shape and Texture)
 
-## Tools
-- [dlib](http://dlib.net/)
-- [Mediapipe](https://developers.google.com/mediapipe/)
-- [OpenFace](https://openface-api.readthedocs.io/en/latest/)
-- [Python Facial Expression Analysis Toolbox (Py-Feat)](https://py-feat.org/pages/intro.html)
-- PyAFAR: Python-based Automated Facial Action Recognition library for use in Infants and Adults: [website](https://pyafar.org/), [github](https://github.com/AffectAnalysisGroup/PyAFAR)
-
-## audio
+## Audio
 [speech data with depression labels](https://github.com/speechandlanguageprocessing/ICASSP2022-Depression)
 
 ## Related Project Page
