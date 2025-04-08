@@ -41,7 +41,7 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 
 <!-- Files have not yet been uploaded: for "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
 
-### Infant Datbases
+### Infant Databases
 * [The City Infant Faces Database: A validated set of infant facial expressions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/) 
     *  60 photographs of positive infant faces, 54 photographs of negative infant faces, and 40 photographs of neutral infant faces.
     *  available upon request (for researchers)
