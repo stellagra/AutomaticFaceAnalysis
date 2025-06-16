@@ -19,15 +19,23 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 * [YouTube Facial Palsy (YFP) Database](https://sites.google.com/view/yfp-database#h.p_DaUvW9mE7B_g) (2018)
   * 32 videos of 21 patients from YouTube, and a few patients have multiple videos
   * available upon request for researchers
-* [Aff-Wild2](https://ibug.doc.ic.ac.uk/resources/aff-wild2/) (2019):
+* [AffectNet](https://www.mohammadmahoor.com/pages/databases/affectnet/) (2017)
+  * <1M facial images (ca. half (~440K) were manually annotated for the presence of seven discrete facial expressions)
+  * reference: "AffectNet: A New Database for Facial Expression, Valence, and Arousal Computation in the Wild",
+  * available: upon request for researchers
+* Aff-Wild
+  * predecessor of Aff-Wild2
+* [Aff-Wild2](https://ibug.doc.ic.ac.uk/resources/aff-wild2/) (2019): (broken link)
   * The Aff-Wild2 is annotated in a per frame basis for the seven basic expressions (i.e., happiness, surprise, anger, disgust, fear, sadness and the neutral state), twelve action units (AUs 1,2,4,6,7,10,12,15,23,24,25, 26) and valence and arousal.
+  * displayes a big diversity in terms of subjects' ages, ethnicities and nationalities; it has also great variations and diversities of environments.
   * consists of 564 videos of around 2.8M frames with 554 subjects (326 of which are male and 228 female). All videos have been annotated in terms of valence and arousal.
     * 546 videos of around 2.6M frames have been annotated in terms of the basic expressions.
     * 541 videos of around 2.6M frames have been annotated in terms of action units.
-  * Aff-Wild2 displayes a big diversity in terms of subjects' ages, ethnicities and nationalities; it has also great variations and diversities of environments.
+  * reference: "Aff-Wild2: Extending the Aff-Wild Database for Affect Recognition", Dimitrios Kollias, Stefanos Zafeiriou, 2019 (venue?)
   * Available upon request for academia and industry
 * [RAVDESS](https://zenodo.org/record/1188976#.ZCPaFC8Robx) (2018):
-  * The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) contains 7356 files (total size: 24.8 GB). The database contains 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent.
+  * The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) contains 7356 files (total size: 24.8 GB).
+  * 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent.
   * under a Creative Commons Attribution 
 * [JAFFE](https://zenodo.org/record/3451524) (1998):
    * 10 Japanese female expressers, 7 Posed Facial Expressions (6 basic facial expressions + 1 neutral), Several images of each expression for each expresser
@@ -57,12 +65,12 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
     * 1200 photographs of over 100 children  (ages 2-8) making 7 different facial expressions - happy, angry, sad, fearful, surprise, neutral, and disgust.
     * reference: LoBue, V. & Thrasher, C. (2015). The Child Affective Facial Expression (CAFE) Set: Validity and reliability from untrained adults. Frontiers in Emotion Science, 5.
     * available: upon request for researchers
-* [The Craniofacial microsomia: Longitudinal Outcomes in Children pre-Kindergarten (CLOCK)](https://pubmed.ncbi.nlm.nih.gov/30621445/)
+* [The Craniofacial microsomia: Longitudinal Outcomes in Children pre-Kindergarten (CLOCK)](https://pubmed.ncbi.nlm.nih.gov/30621445/) (2019)
     * study is a longitudinal cohort study of neurobehavioral outcomes in infants and toddlers with craniofacial microsomia (CFM)
     * 108 cases and 84 controls
     * reference: Luquetti DV, Speltz ML, Wallace ER, Siebold B, Collett BR, Drake AF, Johns AL, Kapp-Simon KA, Kinter SL, Leroux BG, Magee L, Norton S, Sie K, Heike CL. Methods and Challenges in a Cohort Study of Infants and Toddlers With Craniofacial Microsomia: The Clock Study. Cleft Palate Craniofac J. 2019 Aug;56(7):877-889. doi: 10.1177/1055665618821014. Epub 2019 Jan 8. PMID: 30621445; PMCID: PMC6996714.
     * available: ?
-* [MIAMI](https://pubmed.ncbi.nlm.nih.gov/26640622/)
+* [MIAMI](https://pubmed.ncbi.nlm.nih.gov/26640622/) (2015)
     * head movement in mothers and infants during the Still Face paradigm
     * 42 infants: 4-month-old infants and their mothers
     * reference: Hammal Z, Cohn JF, Messinger DS. Head Movement Dynamics During Play and Perturbed Mother-Infant Interaction. IEEE Trans Affect Comput. 2015 Oct-Dec;6(4):361-370. doi: 10.1109/TAFFC.2015.2422702. Epub 2015 Apr 13. PMID: 26640622; PMCID: PMC4666546.
