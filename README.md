@@ -38,12 +38,16 @@ In the following datasets contain images or video with labels of facial expressi
   - 60 photographs of positive infant faces, 54 photographs of negative infant faces, and 40 photographs of neutral infant faces.
   - reference: tbd 
   - available upon request (for researchers)
-- [Tromsø Infant Faces Database](https://uit.no/project/norbaby/database)
+- [Tromsø Infant Faces Database )(TIF)](https://uit.no/project/norbaby/database)
   - 119 images of infant facial expressions
-  - reference tbd
+  - 18 subjects (age 4-12 months)
+  - annotations: 4-7 facial expressions (happy & sad for all, for some: anger, fear, suprise or disgust) validated by over 700 participants 
+  - reference: "The Tromso Infant Faces database (TIF): development, validation and application to assess parenting experience on clarity and intensity ratings", Maack JK, Bohne A, Nordahl D, Livsdatter L, Overvoll M, Wang CA and Pfuhl G (2017)
   - available: upon request for academics
 - [The Child Affective Facial Expressions Set (CAFE)](https://www.childstudycenter-rutgers.com/the-child-affective-facial-expression-se)
-  - 1200 photographs of over 100 children  (ages 2-8) making 7 different facial expressions - happy, angry, sad, fearful, surprise, neutral, and disgust.
+  - 1200 photographs
+  - subjects: over 100 children (ages 2-8)
+  - annotations: 7 different facial expressions - happy, angry, sad, fearful, surprise, neutral, and disgust.
   - reference: "The Child Affective Facial Expression (CAFE) Set: Validity and reliability from untrained adults", LoBue, V. & Thrasher, C., 2015
   - available: upon request for academics
 
