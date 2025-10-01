@@ -8,7 +8,52 @@ Access rights to the databases might change or licenses might run out.
 I do not own any of the following databases. For questions about access and details, please contact the respective authors. 
 
 
-## Datasets
+## Facial Expression - Image and Video Datasets
+In the following datasets contain images or video with labels of facial expression in no particular order, in the folowing pattern:
+
+- name + link
+  - short description
+  - reference: tbd
+  - available: tbd
+
+- [Aff-Wild2 database](https://ibug.doc.ic.ac.uk/resources/aff-wild2/)
+  - 541 videos of around 2.6M frames (in the wild) (big diversity in terms of subjects' ages, ethnicities and nationalities)
+  - 554 subjects (326 of which are male and 228 female)
+  - annotations: seven basic expressions (i.e., happiness, surprise, anger, disgust, fear, sadness and the neutral state), twelve action units (AUs 1,2,4,6,7,10,12,15,23,24,25,26) and valence and arousal
+  - reference: several papers are listed on the webpage "must cite all following papers"
+  - availability: upon request
+- [AffectNet](https://www.mohammadmahoor.com/pages/databases/affectnet/) 
+  - <1M facial images
+  - annotations: ca. half (~440K) annotated presence of seven discrete facial expressions
+  - reference: "AffectNet: A New Database for Facial Expression, Valence, and Arousal Computation in the Wild," Mollahosseini et al., 2017 
+  - available: upon request for academics
+- [The Japanese Female Facial Expression (JAFFE) Dataset](https://www.kasrl.org/jaffe_download)
+   - 213 images, 10 Japanese women, gray scale (Several images of each expression for each expresser)
+   - annotations: averaged semantic ratings on 6 facial expressions by 60 Japanese viewers, 7 Posed Facial Expressions (6 basic facial expressions + 1 neutral) 
+   - reference: "Coding Facial Expressions with Gabor Wavelets," Lyons, Michael J., Miyuki Kamachi, and Jiro Gyoba, 1998
+   - available: upon request for academics
+   
+### Infant Databases
+- [The City Infant Faces Database: A validated set of infant facial expressions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/)
+  - 60 photographs of positive infant faces, 54 photographs of negative infant faces, and 40 photographs of neutral infant faces.
+  - reference: tbd 
+  - available upon request (for researchers)
+- [Tromsø Infant Faces Database](https://uit.no/project/norbaby/database)
+  - 119 images of infant facial expressions
+  - reference tbd
+  - available: upon request for academics
+- [The Child Affective Facial Expressions Set (CAFE)](https://www.childstudycenter-rutgers.com/the-child-affective-facial-expression-se)
+  - 1200 photographs of over 100 children  (ages 2-8) making 7 different facial expressions - happy, angry, sad, fearful, surprise, neutral, and disgust.
+  - reference: "The Child Affective Facial Expression (CAFE) Set: Validity and reliability from untrained adults", LoBue, V. & Thrasher, C., 2015
+  - available: upon request for academics
+
+## Mental Health Labels
+
+- [Wizard of Oz](https://dcapswoz.ict.usc.edu/)
+  -  tbd
+
+
+## ETC
 unsorted list coming. Below you find some tables, in an attempt to sort the information. 
 
 * [EMU: Early Mental Health Uncovering](https://github.com/mltlachac/EMU) (2021)
@@ -19,52 +64,26 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 * [YouTube Facial Palsy (YFP) Database](https://sites.google.com/view/yfp-database#h.p_DaUvW9mE7B_g) (2018)
   * 32 videos of 21 patients from YouTube, and a few patients have multiple videos
   * available upon request for researchers
-* [AffectNet](https://www.mohammadmahoor.com/pages/databases/affectnet/) (2017)
-  * <1M facial images (ca. half (~440K) were manually annotated for the presence of seven discrete facial expressions)
-  * reference: "AffectNet: A New Database for Facial Expression, Valence, and Arousal Computation in the Wild",
-  * available: upon request for researchers
 * Aff-Wild
   * predecessor of Aff-Wild2
-* [Aff-Wild2](https://ibug.doc.ic.ac.uk/resources/aff-wild2/) (2019): (broken link)
-  * The Aff-Wild2 is annotated in a per frame basis for the seven basic expressions (i.e., happiness, surprise, anger, disgust, fear, sadness and the neutral state), twelve action units (AUs 1,2,4,6,7,10,12,15,23,24,25, 26) and valence and arousal.
-  * displayes a big diversity in terms of subjects' ages, ethnicities and nationalities; it has also great variations and diversities of environments.
-  * consists of 564 videos of around 2.8M frames with 554 subjects (326 of which are male and 228 female). All videos have been annotated in terms of valence and arousal.
-    * 546 videos of around 2.6M frames have been annotated in terms of the basic expressions.
-    * 541 videos of around 2.6M frames have been annotated in terms of action units.
-  * reference: "Aff-Wild2: Extending the Aff-Wild Database for Affect Recognition", Dimitrios Kollias, Stefanos Zafeiriou, 2019 (venue?)
-  * Available upon request for academia and industry
 * [RAVDESS](https://zenodo.org/record/1188976#.ZCPaFC8Robx) (2018):
   * The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) contains 7356 files (total size: 24.8 GB).
   * 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent.
   * under a Creative Commons Attribution 
-* [JAFFE](https://zenodo.org/record/3451524) (1998):
-   * 10 Japanese female expressers, 7 Posed Facial Expressions (6 basic facial expressions + 1 neutral), Several images of each expression for each expresser
-   * 213 images total, each image has averaged semantic ratings on 6 facial expressions by 60 Japanese viewers. available upon request for non-commercial scientific research 
 * [DASPS database ](https://ieee-dataport.org/open-access/dasps-database) (2021):
    * raw EEG data collected from the 23 participants during anxiety. "We provided a matlab script for the segmentation of each EEG signal into 6 segments corresponding to the 6 situations.".
 * [Cardiff Conversation Database (CCDb)](https://ccdb.cs.cf.ac.uk/) (2013): audio-visual natural conversation database with 2D and 3D data.
    * available upon request (for researchers)
 * "The Turkish Audio-Visual Bipolar Disorder Corpus", Ciftci, Kaya (2018). audio-visual Bipolar Disorder (BD) corpus for the affective computing and psychiatric communities
    * has become unavailable. Time period of permitted use ran out. 
-
 <!-- Files have not yet been uploaded: for "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
 
 ### Infant Databases
-* [The City Infant Faces Database: A validated set of infant facial expressions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/) 
-    *  60 photographs of positive infant faces, 54 photographs of negative infant faces, and 40 photographs of neutral infant faces.
-    *  available upon request (for researchers)
-* [Tromsø Infant Faces Database](https://uit.no/project/norbaby/database)
-    * 119 images of infant facial expressions
-    * available upon request (for researchers)
 * [A Dataset of Eye Movements for the Children with Autism Spectrum Disorder](https://zenodo.org/records/2647418)
     * 300 natural scene images and the corresponding eye movement
     * 14 children with ASD and 14 healthy controls
     * reference: H. Duan, G. Zhai, X. Min, Z. Che, Y. Fang, X. Yang, J. Gutiérrez, P. Le Callet, "A Dataset of Eye Movements for the Children with Autism Spectrum Disorder", ACM Multimedia Systems Conference (MMSys'19), Jun. 2019.
     * available: free to download
-* [The Child Affective Facial Expressions Set (CAFE)](https://www.childstudycenter-rutgers.com/the-child-affective-facial-expression-se)
-    * 1200 photographs of over 100 children  (ages 2-8) making 7 different facial expressions - happy, angry, sad, fearful, surprise, neutral, and disgust.
-    * reference: LoBue, V. & Thrasher, C. (2015). The Child Affective Facial Expression (CAFE) Set: Validity and reliability from untrained adults. Frontiers in Emotion Science, 5.
-    * available: upon request for researchers
 * [The Craniofacial microsomia: Longitudinal Outcomes in Children pre-Kindergarten (CLOCK)](https://pubmed.ncbi.nlm.nih.gov/30621445/) (2019)
     * study is a longitudinal cohort study of neurobehavioral outcomes in infants and toddlers with craniofacial microsomia (CFM)
     * 108 cases and 84 controls
