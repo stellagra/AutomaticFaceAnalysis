@@ -50,11 +50,34 @@ In the following datasets contain images or video with labels of facial expressi
   - annotations: 7 different facial expressions - happy, angry, sad, fearful, surprise, neutral, and disgust.
   - reference: "The Child Affective Facial Expression (CAFE) Set: Validity and reliability from untrained adults", LoBue, V. & Thrasher, C., 2015
   - available: upon request for academics
+- [RAVDESS](https://zenodo.org/record/1188976#.ZCPaFC8Robx) (2018):
+  - The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) contains 7356 files (total size: 24.8 GB).
+  - 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent.
+  - under a Creative Commons Attribution 
 
-## Mental Health Labels
 
+## Interaction
+
+- [Cardiff Conversation Database (CCDb)](https://ccdb.cs.cf.ac.uk/)
+  - audio-visual natural conversation database with 2D and 3D data.
+  - annotations: tbd
+  - reference: tbd, 2013
+  - available: upon request for academics
+
+
+## (Mental) Health Labels
+
+- [YouTube Facial Palsy (YFP) Database](https://sites.google.com/view/yfp-database#h.p_DaUvW9mE7B_g) (2018)
+  - 32 videos of 21 patients from YouTube, and a few patients have multiple videos
+  - annotations: tbd
+  - reference: tbd
+  - available: upon request for academics
 - [Wizard of Oz](https://dcapswoz.ict.usc.edu/)
-  -  tbd
+  - features extracted from video (not actual image and video footage)
+  - subjects: 
+  - annotations: tbd
+  - reference: tbd
+  - available: upon request for academics
 
 
 ## ETC
@@ -65,19 +88,10 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 * [Depresjon](https://datasets.simula.no/depresjon/) [kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset) (2018):
    * A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients:  motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls.
    * freely available
-* [YouTube Facial Palsy (YFP) Database](https://sites.google.com/view/yfp-database#h.p_DaUvW9mE7B_g) (2018)
-  * 32 videos of 21 patients from YouTube, and a few patients have multiple videos
-  * available upon request for researchers
 * Aff-Wild
   * predecessor of Aff-Wild2
-* [RAVDESS](https://zenodo.org/record/1188976#.ZCPaFC8Robx) (2018):
-  * The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) contains 7356 files (total size: 24.8 GB).
-  * 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent.
-  * under a Creative Commons Attribution 
 * [DASPS database ](https://ieee-dataport.org/open-access/dasps-database) (2021):
    * raw EEG data collected from the 23 participants during anxiety. "We provided a matlab script for the segmentation of each EEG signal into 6 segments corresponding to the 6 situations.".
-* [Cardiff Conversation Database (CCDb)](https://ccdb.cs.cf.ac.uk/) (2013): audio-visual natural conversation database with 2D and 3D data.
-   * available upon request (for researchers)
 * "The Turkish Audio-Visual Bipolar Disorder Corpus", Ciftci, Kaya (2018). audio-visual Bipolar Disorder (BD) corpus for the affective computing and psychiatric communities
    * has become unavailable. Time period of permitted use ran out. 
 <!-- Files have not yet been uploaded: for "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
