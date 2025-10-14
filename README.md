@@ -40,6 +40,8 @@ In the following datasets contain images or video with labels of facial expressi
   - annotations: emotion + intensity
     - Speech emotions: calm, happy, sad, angry, fearful, surprise, and disgust, each at two levels intensity (normal, strong) + neutral expression.
   - available: under a Creative Commons Attribution 
+- SAMM: A Spontaneous Micro-Facial Movement Dataset
+  - available: tbd
    
 ### Infant Databases
 - [The City Infant Faces Database: A validated set of infant facial expressions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/)
@@ -58,7 +60,6 @@ In the following datasets contain images or video with labels of facial expressi
   - annotations: 7 different facial expressions - happy, angry, sad, fearful, surprise, neutral, and disgust.
   - reference: "The Child Affective Facial Expression (CAFE) Set: Validity and reliability from untrained adults", LoBue, V. & Thrasher, C., 2015
   - available: upon request for academics
-
 
 
 ## Interaction
@@ -85,40 +86,38 @@ In the following datasets contain images or video with labels of facial expressi
   - available: upon request for academics
 
 
-## ETC
-unsorted list coming. Below you find some tables, in an attempt to sort the information. 
+### Beyond Visual
 
-* [EMU: Early Mental Health Uncovering](https://github.com/mltlachac/EMU) (2021)
-   * availibility: ?
-* [Depresjon](https://datasets.simula.no/depresjon/) [kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset) (2018):
-   * A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients:  motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls.
-   * freely available
-* Aff-Wild
-  * predecessor of Aff-Wild2
-* [DASPS database ](https://ieee-dataport.org/open-access/dasps-database) (2021):
-   * raw EEG data collected from the 23 participants during anxiety. "We provided a matlab script for the segmentation of each EEG signal into 6 segments corresponding to the 6 situations.".
-* "The Turkish Audio-Visual Bipolar Disorder Corpus", Ciftci, Kaya (2018). audio-visual Bipolar Disorder (BD) corpus for the affective computing and psychiatric communities
-   * has become unavailable. Time period of permitted use ran out. 
+- Audio [speech data with depression labels](https://github.com/speechandlanguageprocessing/ICASSP2022-Depression)
+- [EMU: Early Mental Health Uncovering](https://github.com/mltlachac/EMU) (2021)
+  - availibility: ?
+- [Depresjon](https://datasets.simula.no/depresjon/) [kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset) (2018):
+  - A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients:  motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls.
+  - freely available
+- [DASPS database ](https://ieee-dataport.org/open-access/dasps-database) (2021):
+  - raw EEG data collected from the 23 participants during anxiety. "We provided a matlab script for the segmentation of each EEG signal into 6 segments corresponding to the 6 situations.".
+- "The Turkish Audio-Visual Bipolar Disorder Corpus", Ciftci, Kaya (2018). audio-visual Bipolar Disorder (BD) corpus for the affective computing and psychiatric communities
+  - has become unavailable. (Permitted use ran out, listed for completeness.)
 <!-- Files have not yet been uploaded: for "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
 
-- SAMM: A Spontaneous Micro-Facial Movement Dataset
+
 
 ### Infant Databases
-* [A Dataset of Eye Movements for the Children with Autism Spectrum Disorder](https://zenodo.org/records/2647418)
-    * 300 natural scene images and the corresponding eye movement
-    * 14 children with ASD and 14 healthy controls
-    * reference: H. Duan, G. Zhai, X. Min, Z. Che, Y. Fang, X. Yang, J. Gutiérrez, P. Le Callet, "A Dataset of Eye Movements for the Children with Autism Spectrum Disorder", ACM Multimedia Systems Conference (MMSys'19), Jun. 2019.
-    * available: free to download
-* [The Craniofacial microsomia: Longitudinal Outcomes in Children pre-Kindergarten (CLOCK)](https://pubmed.ncbi.nlm.nih.gov/30621445/) (2019)
-    * study is a longitudinal cohort study of neurobehavioral outcomes in infants and toddlers with craniofacial microsomia (CFM)
-    * 108 cases and 84 controls
-    * reference: Luquetti DV, Speltz ML, Wallace ER, Siebold B, Collett BR, Drake AF, Johns AL, Kapp-Simon KA, Kinter SL, Leroux BG, Magee L, Norton S, Sie K, Heike CL. Methods and Challenges in a Cohort Study of Infants and Toddlers With Craniofacial Microsomia: The Clock Study. Cleft Palate Craniofac J. 2019 Aug;56(7):877-889. doi: 10.1177/1055665618821014. Epub 2019 Jan 8. PMID: 30621445; PMCID: PMC6996714.
-    * available: ?
-* [MIAMI](https://pubmed.ncbi.nlm.nih.gov/26640622/) (2015)
-    * head movement in mothers and infants during the Still Face paradigm
-    * 42 infants: 4-month-old infants and their mothers
-    * reference: Hammal Z, Cohn JF, Messinger DS. Head Movement Dynamics During Play and Perturbed Mother-Infant Interaction. IEEE Trans Affect Comput. 2015 Oct-Dec;6(4):361-370. doi: 10.1109/TAFFC.2015.2422702. Epub 2015 Apr 13. PMID: 26640622; PMCID: PMC4666546.
-    * available: ?
+- [A Dataset of Eye Movements for the Children with Autism Spectrum Disorder](https://zenodo.org/records/2647418)
+  - 300 natural scene images and the corresponding eye movement
+  - 14 children with ASD and 14 healthy controls
+  - reference: H. Duan, G. Zhai, X. Min, Z. Che, Y. Fang, X. Yang, J. Gutiérrez, P. Le Callet, "A Dataset of Eye Movements for the Children with Autism Spectrum Disorder", ACM Multimedia Systems Conference (MMSys'19), Jun. 2019.
+  - available: free to download
+- [The Craniofacial microsomia: Longitudinal Outcomes in Children pre-Kindergarten (CLOCK)](https://pubmed.ncbi.nlm.nih.gov/30621445/) (2019)
+  - study is a longitudinal cohort study of neurobehavioral outcomes in infants and toddlers with craniofacial microsomia (CFM)
+  - 108 cases and 84 controls
+  - reference: Luquetti DV, Speltz ML, Wallace ER, Siebold B, Collett BR, Drake AF, Johns AL, Kapp-Simon KA, Kinter SL, Leroux BG, Magee L, Norton S, Sie K, Heike CL. Methods and Challenges in a Cohort Study of Infants and Toddlers With Craniofacial Microsomia: The Clock Study. Cleft Palate Craniofac J. 2019 Aug;56(7):877-889. doi: 10.1177/1055665618821014. Epub 2019 Jan 8. PMID: 30621445; PMCID: PMC6996714.
+  - available: ?
+- [MIAMI](https://pubmed.ncbi.nlm.nih.gov/26640622/) (2015)
+  - head movement in mothers and infants during the Still Face paradigm
+  - 42 infants: 4-month-old infants and their mothers
+  - reference: Hammal Z, Cohn JF, Messinger DS. Head Movement Dynamics During Play and Perturbed Mother-Infant Interaction. IEEE Trans Affect Comput. 2015 Oct-Dec;6(4):361-370. doi: 10.1109/TAFFC.2015.2422702. Epub 2015 Apr 13. PMID: 26640622; PMCID: PMC4666546.
+  - available: ?
 
 
 ## Tools
@@ -131,29 +130,28 @@ unsorted list coming. Below you find some tables, in an attempt to sort the info
 - [dlib](http://dlib.net/)
 - [Mediapipe](https://developers.google.com/mediapipe/)
 
-## Models
+## Some Face Models
 Publicly available models.
 - [Candide-3](candide3.md): 3D wireframe model: 113 3D vertices connected with triangles, parameters for changing of the shape and expression of the 3D face
 - [Basel Face Model](https://faces.dmi.unibas.ch/bfm/) - 3D Morphable Face Model (Shape and Texture)
 
-## Audio
-[speech data with depression labels](https://github.com/speechandlanguageprocessing/ICASSP2022-Depression)
 
-## Related Human Motion Databases
+
+## 2DO
+- check all AVEC, e.g. [AVEC2013](https://github.com/chkche1/avec2013), [AVEC2019](https://sites.google.com/view/avec2019/home) for availabilty
+- [Binghamton Face Databases](https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
+
+### Human Motion Databases
 2do: add to another repo
 - [AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training](https://fit3d.imar.ro/)
 - [Human3.6M](http://vision.imar.ro/human3.6m/description.php) 
 
-## Related Project Page
-[Affective Computing](https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange)
 
-## 2DO
-* check all AVEC, e.g. [AVEC2013](https://github.com/chkche1/avec2013), [AVEC2019](https://sites.google.com/view/avec2019/home) for availabilty
-* more [face rec databases](https://www.face-rec.org/databases/)
-* [Binghamton Face Databases](https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
-* [Wizard of Oz](https://dcapswoz.ict.usc.edu/)
-* [promising overview](https://www.mdpi.com/1424-8220/22/4/1524)
-* more datasets: [here](https://emutivo.wpi.edu/index.php/data/)
+## Related Sources
+- [Affective Computing](https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange)
+- more datasets: [here](https://emutivo.wpi.edu/index.php/data/)
+- [promising survey](https://www.mdpi.com/1424-8220/22/4/1524)
+- more [face rec databases](https://www.face-rec.org/databases/)
 
 ## Contact
 [Stella Grasshof](https://pure.itu.dk/en/persons/stella-grasshof) - IT University of Copenhagen
