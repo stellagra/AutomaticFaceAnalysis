@@ -8,6 +8,23 @@ Access rights to the databases might change or licenses might run out.
 I do not own any of the following databases. For questions about access and details, please contact the respective authors. 
 
 
+## Table of Contents 
+  * [Facial Expression - Image and Video Datasets](#facial-expression---image-and-video-datasets)
+    + [Infant Databases](#infant-databases)
+  * [Interaction](#interaction)
+  * [Mental Health Labels](#mental-health-labels)
+    + [Beyond Visual](#beyond-visual)
+    + [Infant Databases](#infant-databases-1)
+  * [Tools](#tools)
+    + [Facial Action Units and more](#facial-action-units-and-more)
+    + [Facial Landmarks only](#facial-landmarks-only)
+  * [Some Face Models](#some-face-models)
+  * [2DO](#2do)
+    + [Human Motion Databases](#human-motion-databases)
+  * [Related Sources](#related-sources)
+  * [Contact](#contact)
+
+
 ## Facial Expression - Image and Video Datasets
 In the following datasets contain images or video with labels of facial expression in no particular order, in the folowing pattern:
 
@@ -40,7 +57,14 @@ In the following datasets contain images or video with labels of facial expressi
   - annotations: emotion + intensity
     - Speech emotions: calm, happy, sad, angry, fearful, surprise, and disgust, each at two levels intensity (normal, strong) + neutral expression.
   - available: under a Creative Commons Attribution 
-- SAMM: A Spontaneous Micro-Facial Movement Dataset
+- [SAMM: A Spontaneous Micro-Facial Movement Dataset](https://e-space.mmu.ac.uk/617069/) [link](https://helward.mmu.ac.uk/STAFF/m.yap/dataset.php) 
+  - description
+  - annotations: 
+  - reference: Davison, AK, Lansley, C, Costen, N, Tan, K and Yap, MH (2018) SAMM: A Spontaneous Micro-Facial Movement Dataset. IEEE Transactions on Affective Computing, 9 (1). pp. 116-129. ISSN 1949-3045 
+  - available: for researchers
+- SAMM Long Videos [link](https://helward.mmu.ac.uk/STAFF/m.yap/dataset.php) 
+  - 147 long videos with 343 macro-expressions and 159 micro-expressions
+  - reference: Yap, C.H., Kendrick, C. and Yap, M.H., 2020, November. Samm long videos: A spontaneous facial micro-and macro-expressions dataset. In 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020) (pp. 771-776). IEEE. 
   - available: tbd
    
 ### Infant Databases
@@ -71,7 +95,7 @@ In the following datasets contain images or video with labels of facial expressi
   - available: upon request for academics
 
 
-## (Mental) Health Labels
+## Mental Health Labels
 
 - [YouTube Facial Palsy (YFP) Database](https://sites.google.com/view/yfp-database#h.p_DaUvW9mE7B_g) (2018)
   - 32 videos of 21 patients from YouTube, and a few patients have multiple videos
