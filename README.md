@@ -46,7 +46,7 @@ In the following datasets contain images or video with labels of facial expressi
 ### Infant Databases
 - [The City Infant Faces Database: A validated set of infant facial expressions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/)
   - 60 photographs of positive infant faces, 54 photographs of negative infant faces, and 40 photographs of neutral infant faces.
-  - reference: tbd 
+  - reference: Webb R, Ayers S, Endress A. The City Infant Faces Database: A validated set of infant facial expressions. Behav Res Methods. 2018 Feb; 50(1):151-159. doi: 10.3758/s13428-017-0859-9. PMID: 28205132; PMCID: PMC5809537 
   - available upon request (for researchers)
 - [Tromsø Infant Faces Database )(TIF)](https://uit.no/project/norbaby/database)
   - 119 images of infant facial expressions
