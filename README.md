@@ -88,9 +88,18 @@ In the following datasets contain images or video with labels of facial expressi
 
 ### Beyond Visual
 
-- Audio [speech data with depression labels](https://github.com/speechandlanguageprocessing/ICASSP2022-Depression)
 - [EMU: Early Mental Health Uncovering](https://github.com/mltlachac/EMU) (2021)
   - availibility: ?
+- [The DepreST Call and Text (DepreST-CAT) dataset](https://github.com/mltlachac/DepreST-CAT) [project page](https://emutivo.wpi.edu/index.php/data/)
+  - call and text logs
+  - annotations: demographics, PHQ-9 (depression scores), and GAD-7 (anxiety screening scores) from over 369 Prolific crowd-sourced participants
+  - reference: ML Tlachac, Ricardo Flores, Miranda Reisch, Katie Housekeeper, Elke Rundensteiner, “DepreST-CAT: Retrospective Smartphone Call and Text Logs Collected During the COVID-19 Pandemic to Screen for Mental Illnesses”, ACM Proceedings on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), vol. 6, no. 2,  2022.
+  - available: free to download ? (free for academic use)
+- [Student Suicidal Ideation and Depression Detection (StudentSADD) dataset](https://emutivo.wpi.edu/index.php/data/)
+  - annotations:
+  - reference:
+  - available: ?
+- Audio [speech data with depression labels](https://github.com/speechandlanguageprocessing/ICASSP2022-Depression)
 - [Depresjon](https://datasets.simula.no/depresjon/) [kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset) (2018):
   - A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients:  motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls.
   - freely available
