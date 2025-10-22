@@ -33,8 +33,7 @@ Information is ordered according to the following scheme:
   - short description
   - annotations: ...
   - reference: ...
-  - available: ...
-  Access Legend
+  - available: 
     - ✅ Free to download
     - 📧 Free upon request (most are for academics only 🎓) 
     - 🔒 not publicly available
