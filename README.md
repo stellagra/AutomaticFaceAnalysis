@@ -60,7 +60,7 @@ In the following datasets contain images or video with labels of facial expressi
    - 213 images, 10 Japanese women, gray scale (Several images of each expression for each expresser)
    - annotations: averaged semantic ratings on 6 facial expressions by 60 Japanese viewers, 7 Posed Facial Expressions (6 basic facial expressions + 1 neutral) 
    - reference: "Coding Facial Expressions with Gabor Wavelets," Lyons, Michael J., Miyuki Kamachi, and Jiro Gyoba, 1998
-   - 📧 available: upon request for academics
+   - ✅ available: free to download
 - [RAVDESS](https://zenodo.org/record/1188976#.ZCPaFC8Robx) (2018):
   - The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) 
   - 7356 recordings were each rated 10 times on emotional validity, intensity, and genuineness. Ratings were provided by 247 individuals 
@@ -68,16 +68,18 @@ In the following datasets contain images or video with labels of facial expressi
   - subjects: 24 professional actors (12 female, 12 male), vocalizing two lexically-matched statements in a neutral North American accent
   - annotations: emotion + intensity
     - Speech emotions: calm, happy, sad, angry, fearful, surprise, and disgust, each at two levels intensity (normal, strong) + neutral expression.
-  - available: under a Creative Commons Attribution 
+  - ✅ available: under a Creative Commons Attribution 
 - [SAMM: A Spontaneous Micro-Facial Movement Dataset](https://e-space.mmu.ac.uk/617069/) [link](https://helward.mmu.ac.uk/STAFF/m.yap/dataset.php) 
-  - description
-  - annotations: 
+  - video recordings of 32 participants watching seven stimuli 
+  - annotations: FACS (Facial Action Units), 7 emotions (and more)
   - reference: Davison, AK, Lansley, C, Costen, N, Tan, K and Yap, MH (2018) SAMM: A Spontaneous Micro-Facial Movement Dataset. IEEE Transactions on Affective Computing, 9 (1). pp. 116-129. ISSN 1949-3045 
-  - 📧 available: for researchers
+  - 📧 available: upon request
 - SAMM Long Videos [link](https://helward.mmu.ac.uk/STAFF/m.yap/dataset.php) 
   - 147 long videos with 343 macro-expressions and 159 micro-expressions
+  - annotations: 
   - reference: Yap, C.H., Kendrick, C. and Yap, M.H., 2020, November. Samm long videos: A spontaneous facial micro-and macro-expressions dataset. In 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020) (pp. 771-776). IEEE. 
-  - available: tbd
+  - 📧 available: upon request
+  <!-- They compare to: Polikovsky et al. [13] SMIC [14] USF-HD [15] CASME [16] CASME II [17] -->
    
 ### Infant Databases
 - [The City Infant Faces Database: A validated set of infant facial expressions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/)
@@ -184,12 +186,6 @@ Publicly available models.
 - [Basel Face Model](https://faces.dmi.unibas.ch/bfm/) - 3D Morphable Face Model (Shape and Texture)
 
 
-
-## 2DO
-- check all AVEC, e.g. [AVEC2013](https://github.com/chkche1/avec2013), [AVEC2019](https://sites.google.com/view/avec2019/home) for availabilty
-- [Binghamton Face Databases](https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
-
-
 ## Related Sources
 
 1. Mental Health Datasets
@@ -201,8 +197,16 @@ Check out this repository [HumanMotionCollection](https://github.com/stellagra/H
 3. Related to FacialExpression and  Motion
 - [Affective Computing](https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange)
 - more datasets: [here](https://emutivo.wpi.edu/index.php/data/)
-- [promising survey](https://www.mdpi.com/1424-8220/22/4/1524)
+- [survey](https://www.mdpi.com/1424-8220/22/4/1524)
 - more [face rec databases](https://www.face-rec.org/databases/)
+
+
+## 2DO
+- check all AVEC, e.g. [AVEC2013](https://github.com/chkche1/avec2013), [AVEC2019](https://sites.google.com/view/avec2019/home) for availabilty
+- 💰 [Binghamton Face Databases](https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html) 
+
+
+
 
 ## Contact
 [Stella Grasshof](https://pure.itu.dk/en/persons/stella-grasshof) - IT University of Copenhagen
