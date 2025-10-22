@@ -81,8 +81,9 @@ In the following datasets contain images or video with labels of facial expressi
   - 📧 available: upon request
    
 ### Infant Databases
-- [The City Infant Faces Database: A validated set of infant facial expressions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/)
+- [The City Infant Faces Database: A validated set of infant facial expressions (CIF)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/)
   - 60 photographs of positive infant faces, 54 photographs of negative infant faces, and 40 photographs of neutral infant faces.
+  - annotations: 
   - reference: Webb R, Ayers S, Endress A. The City Infant Faces Database: A validated set of infant facial expressions. Behav Res Methods. 2018 Feb; 50(1):151-159. doi: 10.3758/s13428-017-0859-9. PMID: 28205132; PMCID: PMC5809537 
   - 📧 available: upon request (for researchers)
 - [Tromsø Infant Faces Database )(TIF)](https://uit.no/project/norbaby/database)
@@ -96,11 +97,35 @@ In the following datasets contain images or video with labels of facial expressi
   - subjects: over 100 children (ages 2-8)
   - annotations: 7 different facial expressions - happy, angry, sad, fearful, surprise, neutral, and disgust.
   - reference: "The Child Affective Facial Expression (CAFE) Set: Validity and reliability from untrained adults", LoBue, V. & Thrasher, C., 2015
-  - 📧 available: upon request for academics 
-
+  - 📧 available: upon request for academics
+- [Cry, Laugh, or Angry? Dataset](https://data.mendeley.com/datasets/hy969mrx9p/1) (Mendeley Data, 2025)
+  - 1,600 manually labeled images (expanded to over 26,000 with augmentation)
+  - annotations: four categories: angry, cry, laugh, and normal
+  - reference: Hasan, Md. Mehedi; SHAHRIARE, EMON; Rashid, Maria; Rifat, MD Sayed Islam; Siddik, Md. Redoy; Bijoy, Md Hasan Imam (2025), “Cry, Laugh, or Angry? A Benchmark Dataset for Computer Vision-Based Approach to Infant Facial Emotion Recognition”, Mendeley Data, V1, doi: 10.17632/hy969mrx9p.1
+  - ✅ available: free to download
+- [Infant Facial Expression of Pain Intensity (IFEPI)](https://zenodo.org/records/14011791)
+ - 25,000 spontaneous images of infant facial expressions of pain intensity, focus on infants’ pain-related facial expressions, intended for medical and affective computing applications (Pakistan, with collaboration from UNICEF)
+ - annotations: facial expressions of pain intensity, (check if labels are given for Neonatal Facial Coding System (NFCS))
+ - reference: tdb
+ - available: tbd
+- ChildEFES (Child Emotion Facial Expression Set)
+ - 1,985 stimuli (photos and videos) of 4–6-year-olds expressing posed and induced emotions
+ - annotations: FACS
+ - reference: tdb
+ - available: tbd
+- Children’s Emotions Dataset (2025)
+ - Focused on children aged 10–12
+ - annotations: 7 emotions, FACS (?)
+ - reference: tdb
+ - available: tbd
+- CMED (Child Micro-Expression Dataset, 2025)
+ - videos subtle and spontaneous micro-expressions in children
+ - annotations: tbd
+ - reference: tdb
+ - available: tbd
 
 ## Interaction
-
+Focus on human interaction
 - [Cardiff Conversation Database (CCDb)](https://ccdb.cs.cf.ac.uk/)
   - audio-visual natural conversation database with 2D and 3D data.
   - annotations: tbd
@@ -145,8 +170,16 @@ Datasets with labels related to health and mental health.
   - annotations: Bipolar Disorder (binary labels)
   - reference: "The Turkish Audio-Visual Bipolar Disorder Corpus", Ciftci, Kaya (2018)
   - ❌ has become unavailable. (Permitted use ran out, listed for completeness.) 
-
  <!-- looks interesting, but no files: "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
+
+### Infants
+
+- CALMED Dataset (2023)
+  – A multimodal annotated dataset for emotion detection in children with autism aged 8–12
+- Hugging Rain Man (HRM) Dataset (2024)
+  - Contains manually annotated facial Action Units for both ASD and typically developing children
+- MMASD (DE-ENIGMA) – Combines visual, auditory, and behavioral features for autism intervention research
+
 
 ### Beyond Visual
 
