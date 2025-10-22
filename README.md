@@ -5,7 +5,7 @@ The intention is to gather datasets which are available. However, dataset which 
 Please note that this repo is under development. Feel free to reach out for additions, and/or corrections. If you find a link or reference is outdated, I am happy to receive your feedback for corrections. 
 
 Notes: 
-- I neither claim completeness nor correctness.
+- I neither claim completeness nor correctness. No guarantees. 
 - Access rights to the databases might change or licenses might run out. 
 - I do not own any of the following databases. For questions about access and details, please contact the respective authors. 
 
@@ -74,12 +74,12 @@ In the following datasets contain images or video with labels of facial expressi
   - annotations: FACS (Facial Action Units), 7 emotions (and more)
   - reference: Davison, AK, Lansley, C, Costen, N, Tan, K and Yap, MH (2018) SAMM: A Spontaneous Micro-Facial Movement Dataset. IEEE Transactions on Affective Computing, 9 (1). pp. 116-129. ISSN 1949-3045 
   - 📧 available: upon request
-- SAMM Long Videos [link](https://helward.mmu.ac.uk/STAFF/m.yap/dataset.php) 
-  - 147 long videos with 343 macro-expressions and 159 micro-expressions
-  - annotations: 
+  <!-- They compare to: Polikovsky et al. [13] SMIC [14] USF-HD [15] CASME [16] CASME II [17] -->
+- SAMM Long Videos: A Spontaneous Facial Micro- and Macro-Expressions Dataset [link](https://helward.mmu.ac.uk/STAFF/m.yap/dataset.php) 
+  - extension of SAMM. 147 long videos with 343 macro-expressions and 159 micro-expressions
+  - annotations: FACS, emotions
   - reference: Yap, C.H., Kendrick, C. and Yap, M.H., 2020, November. Samm long videos: A spontaneous facial micro-and macro-expressions dataset. In 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020) (pp. 771-776). IEEE. 
   - 📧 available: upon request
-  <!-- They compare to: Polikovsky et al. [13] SMIC [14] USF-HD [15] CASME [16] CASME II [17] -->
    
 ### Infant Databases
 - [The City Infant Faces Database: A validated set of infant facial expressions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/)
@@ -111,19 +111,43 @@ In the following datasets contain images or video with labels of facial expressi
 
 ## Mental Health Labels
 
+Datasets with labels related to health and mental health.
+
+- [Distress Analysis Interview Corpus (DAIC)](https://aclanthology.org/L14-1421/)
+  - The Distress Analysis Interview Corpus of human and computer interviews
+  - annotations: PHQ-8 (depression), and more
+  - reference: Gratch J, Artstein R, Lucas GM, Stratou G, Scherer S, Nazarian A, Wood R, Boberg J, DeVault D, Marsella S, Traum DR. The Distress Analysis Interview Corpus of Human and Computer Interviews. In Proceedings of LREC 2014 May (pp. 3123-3128).
+  - ❌ available: does not seem to be available as a whole
+- [DAIC-WOZ Database](https://dcapswoz.ict.usc.edu/)
+  - description:
+    - subset of the larger Distress Analysis Interview Corpus (DAIC)
+    - virtual interviewer. 189 sessions of interactions ranging between 7-33 minutes (average is 16 minutes), contains features extracted from video (not actual image and video footage)
+    - transcripts of the interaction, participant audio files, and facial expressions (FACS-encoded by OpenFace 2.0)
+  - annotations: PHQ-8 all items (depression), gender 
+  - reference: DeVault, D., Artstein, R., Benn, G., Dey, T., Fast, E., Gainer, A., Georgila, K., Gratch, J., Hartholt, A., Lhommet, M., Lucas, G., Marsella, S., Morbini, F., Nazarian, A., Scherer, S., Stratou, G., Suri, A., Traum, D., Wood, R., Xu, Y., Rizzo, A., and Morency, L.-P. (2014). “SimSensei kiosk: A virtual human interviewer for healthcare decision support.” In Proceedings of the 13th International Conference on Autonomous Agents and Multiagent Systems (AAMAS’14), Paris.
+  - 📧 available: upon request for academics
+- [Extended DAIC Database](https://dcapswoz.ict.usc.edu/)
+  - extended version of DAIC-WOZ database for depression and PTSD assessment (was used for the AVEC 2019)
+  - annotations: tbd
+  - reference: Ringeval, Fabien, Björn Schuller, Michel Valstar, Nicholas Cummins, Roddy Cowie, Leili Tavabi, Maximilian Schmitt et al. “Avec 2019 workshop and challenge: State-of-mind, detecting depression with ai, and cross-cultural affect recognition.” In Proceedings of the 9th International on Audio/Visual Emotion Challenge and Workshop, pp. 3-12. ACM, 2019. 
+  - 📧 available: upon request for academics
+- [MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://aclanthology.org/D18-1547/)
+  - 10k dialogues (3,406 single-domain, 7,032 multi-domain dialogues) 
+  - annotations: tbd
+  - reference: Paweł Budzianowski, Tsung-Hsien Wen, Bo-Hsiang Tseng, Iñigo Casanueva, Stefan Ultes, Osman Ramadan, and Milica Gašić. 2018. MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 5016–5026, Brussels, Belgium. Association for Computational Linguistics.
+  - 📧 available: upon request for academics
 - [YouTube Facial Palsy (YFP) Database](https://sites.google.com/view/yfp-database#h.p_DaUvW9mE7B_g) (2018)
   - 32 videos of 21 patients from YouTube, and a few patients have multiple videos
-  - annotations: tbd
-  - reference: tbd
+  - annotations: Manually labeled local palsy regions, location (eyes, mpouth), intensity (low or high)
+  - reference: GEE-SERN JISON HSU, JIUNN-HORNG KANG, WEN-FONG HUANG, Deep Hierarchical Network With Line Segment Learning for Quantitative Analysis of Facial Palsy, IEEE Access, vol. 7, 4833-4842, Dec. 2018
   - 📧 available: upon request for academics
- <!-- Files have not yet been uploaded: for "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
-- [Wizard of Oz](https://dcapswoz.ict.usc.edu/)
-  - features extracted from video (not actual image and video footage)
-  - subjects: 
-  - annotations: tbd
-  - reference: tbd
-  - 📧 available: upon request for academics
+- [Turkish Audio-Visual Bipolar Disorder Corpus](https://ieeexplore.ieee.org/document/8470362/&ved=2ahUKEwi-1qunureQAxUO2wIHHYG7MOoQFnoECB0QAQ&usg=AOvVaw0Gky0kRbgXgS4vTZKVQ5cC)
+  - description: was part of an AVEC 2018, audio-visual Bipolar Disorder (BD) corpus for the affective computing and psychiatric communities 
+  - annotations: Bipolar Disorder (binary labels)
+  - reference: "The Turkish Audio-Visual Bipolar Disorder Corpus", Ciftci, Kaya (2018)
+  - ❌ has become unavailable. (Permitted use ran out, listed for completeness.) 
 
+ <!-- looks interesting, but no files: "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
 
 ### Beyond Visual
 
@@ -144,11 +168,7 @@ In the following datasets contain images or video with labels of facial expressi
   - ✅ availability: freel to download
 - [DASPS database ](https://ieee-dataport.org/open-access/dasps-database) (2021):
   - raw EEG data collected from the 23 participants during anxiety. "We provided a matlab script for the segmentation of each EEG signal into 6 segments corresponding to the 6 situations.".
-- "The Turkish Audio-Visual Bipolar Disorder Corpus", Ciftci, Kaya (2018). audio-visual Bipolar Disorder (BD) corpus for the affective computing and psychiatric communities
-  - description: 
-  - annotations:
-  - reference:
-  - ❌ has become unavailable. (Permitted use ran out, listed for completeness.) 
+
 
 
 
