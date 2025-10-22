@@ -1,11 +1,13 @@
 # Automatic Face Analysis
 
 This repository shall provide a collection about databases and tools for the analysis of faces. 
+The intention is to gather datasets which are available. However, dataset which are not available might be added since those can be helpful as a source of related work. 
 Please note that this repo is under development. Feel free to reach out for additions, and/or corrections. If you find a link or reference is outdated, I am happy to receive your feedback for corrections. 
-Access rights to the databases might change or licenses might run out. 
 
-**Important note:** 
-I do not own any of the following databases. For questions about access and details, please contact the respective authors. 
+Notes: 
+- I neither claim completeness nor correctness.
+- Access rights to the databases might change or licenses might run out. 
+- I do not own any of the following databases. For questions about access and details, please contact the respective authors. 
 
 
 ## Table of Contents 
@@ -27,27 +29,35 @@ I do not own any of the following databases. For questions about access and deta
 ## Facial Expression - Image and Video Datasets
 In the following datasets contain images or video with labels of facial expression in no particular order, in the folowing pattern:
 
+Scheme:
 - name + link
   - short description
-  - reference: tbd
-  - available: tbd
+  - annotations: ...
+  - reference: ...
+  - available: ...
+  Access Legend
+    - ✅ Free to download
+    - 📧 Free upon request (most are for academics only 🎓) 
+    - 🔒 not publicly available
+    - 💰 if payment is required
+    - ❌ No longer available 
 
 - [Aff-Wild2 database](https://ibug.doc.ic.ac.uk/resources/aff-wild2/)
   - 541 videos of around 2.6M frames (in the wild) (big diversity in terms of subjects' ages, ethnicities and nationalities)
   - 554 subjects (326 of which are male and 228 female)
   - annotations: seven basic expressions (i.e., happiness, surprise, anger, disgust, fear, sadness and the neutral state), twelve action units (AUs 1,2,4,6,7,10,12,15,23,24,25,26) and valence and arousal
   - reference: several papers are listed on the webpage "must cite all following papers"
-  - availability: upon request
+  - 📧 availability: upon request
 - [AffectNet](https://www.mohammadmahoor.com/pages/databases/affectnet/) 
   - <1M facial images
   - annotations: ca. half (~440K) annotated presence of seven discrete facial expressions
   - reference: "AffectNet: A New Database for Facial Expression, Valence, and Arousal Computation in the Wild," Mollahosseini et al., 2017 
-  - available: upon request for academics
+  - 📧 available: upon request for academics
 - [The Japanese Female Facial Expression (JAFFE) Dataset](https://www.kasrl.org/jaffe_download)
    - 213 images, 10 Japanese women, gray scale (Several images of each expression for each expresser)
    - annotations: averaged semantic ratings on 6 facial expressions by 60 Japanese viewers, 7 Posed Facial Expressions (6 basic facial expressions + 1 neutral) 
    - reference: "Coding Facial Expressions with Gabor Wavelets," Lyons, Michael J., Miyuki Kamachi, and Jiro Gyoba, 1998
-   - available: upon request for academics
+   - 📧 available: upon request for academics
 - [RAVDESS](https://zenodo.org/record/1188976#.ZCPaFC8Robx) (2018):
   - The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) 
   - 7356 recordings were each rated 10 times on emotional validity, intensity, and genuineness. Ratings were provided by 247 individuals 
@@ -60,7 +70,7 @@ In the following datasets contain images or video with labels of facial expressi
   - description
   - annotations: 
   - reference: Davison, AK, Lansley, C, Costen, N, Tan, K and Yap, MH (2018) SAMM: A Spontaneous Micro-Facial Movement Dataset. IEEE Transactions on Affective Computing, 9 (1). pp. 116-129. ISSN 1949-3045 
-  - available: for researchers
+  - 📧 available: for researchers
 - SAMM Long Videos [link](https://helward.mmu.ac.uk/STAFF/m.yap/dataset.php) 
   - 147 long videos with 343 macro-expressions and 159 micro-expressions
   - reference: Yap, C.H., Kendrick, C. and Yap, M.H., 2020, November. Samm long videos: A spontaneous facial micro-and macro-expressions dataset. In 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020) (pp. 771-776). IEEE. 
@@ -70,19 +80,19 @@ In the following datasets contain images or video with labels of facial expressi
 - [The City Infant Faces Database: A validated set of infant facial expressions](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/)
   - 60 photographs of positive infant faces, 54 photographs of negative infant faces, and 40 photographs of neutral infant faces.
   - reference: Webb R, Ayers S, Endress A. The City Infant Faces Database: A validated set of infant facial expressions. Behav Res Methods. 2018 Feb; 50(1):151-159. doi: 10.3758/s13428-017-0859-9. PMID: 28205132; PMCID: PMC5809537 
-  - available upon request (for researchers)
+  - 📧 available: upon request (for researchers)
 - [Tromsø Infant Faces Database )(TIF)](https://uit.no/project/norbaby/database)
   - 119 images of infant facial expressions
   - 18 subjects (age 4-12 months)
   - annotations: 4-7 facial expressions (happy & sad for all, for some: anger, fear, suprise or disgust) validated by over 700 participants 
   - reference: "The Tromso Infant Faces database (TIF): development, validation and application to assess parenting experience on clarity and intensity ratings", Maack JK, Bohne A, Nordahl D, Livsdatter L, Overvoll M, Wang CA and Pfuhl G (2017)
-  - available: upon request for academics
+  - 📧 available: upon request for academics
 - [The Child Affective Facial Expressions Set (CAFE)](https://www.childstudycenter-rutgers.com/the-child-affective-facial-expression-se)
   - 1200 photographs
   - subjects: over 100 children (ages 2-8)
   - annotations: 7 different facial expressions - happy, angry, sad, fearful, surprise, neutral, and disgust.
   - reference: "The Child Affective Facial Expression (CAFE) Set: Validity and reliability from untrained adults", LoBue, V. & Thrasher, C., 2015
-  - available: upon request for academics
+  - 📧 available: upon request for academics 
 
 
 ## Interaction
@@ -91,7 +101,7 @@ In the following datasets contain images or video with labels of facial expressi
   - audio-visual natural conversation database with 2D and 3D data.
   - annotations: tbd
   - reference: tbd, 2013
-  - available: upon request for academics
+  - 📧 available: upon request for academics
 
 
 ## Mental Health Labels
@@ -100,13 +110,14 @@ In the following datasets contain images or video with labels of facial expressi
   - 32 videos of 21 patients from YouTube, and a few patients have multiple videos
   - annotations: tbd
   - reference: tbd
-  - available: upon request for academics
+  - 📧 available: upon request for academics
+ <!-- Files have not yet been uploaded: for "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
 - [Wizard of Oz](https://dcapswoz.ict.usc.edu/)
   - features extracted from video (not actual image and video footage)
   - subjects: 
   - annotations: tbd
   - reference: tbd
-  - available: upon request for academics
+  - 📧 available: upon request for academics
 
 
 ### Beyond Visual
@@ -125,12 +136,14 @@ In the following datasets contain images or video with labels of facial expressi
 - Audio [speech data with depression labels](https://github.com/speechandlanguageprocessing/ICASSP2022-Depression)
 - [Depresjon](https://datasets.simula.no/depresjon/) [kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset) (2018):
   - A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients:  motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls.
-  - freely available
+  - ✅ availability: freel to download
 - [DASPS database ](https://ieee-dataport.org/open-access/dasps-database) (2021):
   - raw EEG data collected from the 23 participants during anxiety. "We provided a matlab script for the segmentation of each EEG signal into 6 segments corresponding to the 6 situations.".
 - "The Turkish Audio-Visual Bipolar Disorder Corpus", Ciftci, Kaya (2018). audio-visual Bipolar Disorder (BD) corpus for the affective computing and psychiatric communities
-  - has become unavailable. (Permitted use ran out, listed for completeness.)
-<!-- Files have not yet been uploaded: for "Facial Paralysis Dataset" https://ieee-dataport.org/documents/facial-paralysis-dataset#files-->
+  - description: 
+  - annotations:
+  - reference:
+  - ❌ has become unavailable. (Permitted use ran out, listed for completeness.) 
 
 
 
@@ -139,7 +152,7 @@ In the following datasets contain images or video with labels of facial expressi
   - 300 natural scene images and the corresponding eye movement
   - 14 children with ASD and 14 healthy controls
   - reference: H. Duan, G. Zhai, X. Min, Z. Che, Y. Fang, X. Yang, J. Gutiérrez, P. Le Callet, "A Dataset of Eye Movements for the Children with Autism Spectrum Disorder", ACM Multimedia Systems Conference (MMSys'19), Jun. 2019.
-  - available: free to download
+  - ✅ available: free to download
 - [The Craniofacial microsomia: Longitudinal Outcomes in Children pre-Kindergarten (CLOCK)](https://pubmed.ncbi.nlm.nih.gov/30621445/) (2019)
   - study is a longitudinal cohort study of neurobehavioral outcomes in infants and toddlers with craniofacial microsomia (CFM)
   - 108 cases and 84 controls
@@ -175,10 +188,14 @@ Publicly available models.
 
 
 ## Related Sources
-Looking for Human Motion and Sports?
-Check out the [HumanMotionCollection](https://github.com/stellagra/HumanMotionCollection)
 
-Related to FacialExpression and  Motion
+1. Mental Health Datasets
+Separate repository to come
+
+2. Looking for Human Motion and Sports?
+Check out this repository [HumanMotionCollection](https://github.com/stellagra/HumanMotionCollection)
+
+3. Related to FacialExpression and  Motion
 - [Affective Computing](https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange)
 - more datasets: [here](https://emutivo.wpi.edu/index.php/data/)
 - [promising survey](https://www.mdpi.com/1424-8220/22/4/1524)
