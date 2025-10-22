@@ -164,7 +164,9 @@ Datasets with labels related to health and mental health.
   - available: ?
 - Audio [speech data with depression labels](https://github.com/speechandlanguageprocessing/ICASSP2022-Depression)
 - [Depresjon](https://datasets.simula.no/depresjon/) [kaggle](https://www.kaggle.com/datasets/arashnic/the-depression-dataset) (2018):
-  - A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients:  motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls.
+  - description: tbd 
+  - annotations: tbd
+  - reference: A Motor Activity Database of Depression Episodes in Unipolar and Bipolar Patients:  motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls.
   - ✅ availability: freel to download
 - [DASPS database ](https://ieee-dataport.org/open-access/dasps-database) (2021):
   - raw EEG data collected from the 23 participants during anxiety. "We provided a matlab script for the segmentation of each EEG signal into 6 segments corresponding to the 6 situations.".
