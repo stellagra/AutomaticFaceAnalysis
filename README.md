@@ -104,25 +104,25 @@ In the following datasets contain images or video with labels of facial expressi
   - reference: Hasan, Md. Mehedi; SHAHRIARE, EMON; Rashid, Maria; Rifat, MD Sayed Islam; Siddik, Md. Redoy; Bijoy, Md Hasan Imam (2025), “Cry, Laugh, or Angry? A Benchmark Dataset for Computer Vision-Based Approach to Infant Facial Emotion Recognition”, Mendeley Data, V1, doi: 10.17632/hy969mrx9p.1
   - ✅ available: free to download
 - [Infant Facial Expression of Pain Intensity (IFEPI)](https://zenodo.org/records/14011791)
- - 25,000 spontaneous images of infant facial expressions of pain intensity, focus on infants’ pain-related facial expressions, intended for medical and affective computing applications (Pakistan, with collaboration from UNICEF)
- - annotations: facial expressions of pain intensity, (check if labels are given for Neonatal Facial Coding System (NFCS))
- - reference: tdb
- - available: tbd
+  - 25,000 spontaneous images of infant facial expressions of pain intensity, focus on infants’ pain-related facial expressions, intended for medical and affective computing applications (Pakistan, with collaboration from UNICEF)
+  - annotations: facial expressions of pain intensity, (check if labels are given for Neonatal Facial Coding System (NFCS))
+  - reference: tdb
+  - available: tbd
 - ChildEFES (Child Emotion Facial Expression Set)
- - 1,985 stimuli (photos and videos) of 4–6-year-olds expressing posed and induced emotions
- - annotations: FACS
- - reference: tdb
- - available: tbd
+  - 1,985 stimuli (photos and videos) of 4–6-year-olds expressing posed and induced emotions
+  - annotations: FACS
+  - reference: tdb
+  - available: tbd
 - Children’s Emotions Dataset (2025)
- - Focused on children aged 10–12
- - annotations: 7 emotions, FACS (?)
- - reference: tdb
- - available: tbd
+  - Focused on children aged 10–12
+  - annotations: 7 emotions, FACS (?)
+  - reference: tdb
+  - available: tbd
 - CMED (Child Micro-Expression Dataset, 2025)
- - videos subtle and spontaneous micro-expressions in children
- - annotations: tbd
- - reference: tdb
- - available: tbd
+  - videos subtle and spontaneous micro-expressions in children
+  - annotations: tbd
+  - reference: tdb
+  - available: tbd
 
 ## Interaction
 Focus on human interaction
@@ -248,11 +248,11 @@ Separate repository to come
 2. Looking for Human Motion and Sports?
 Check out this repository [HumanMotionCollection](https://github.com/stellagra/HumanMotionCollection)
 
-3. Related to FacialExpression and  Motion
-- [Affective Computing](https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange)
-- more datasets: [here](https://emutivo.wpi.edu/index.php/data/)
-- [survey](https://www.mdpi.com/1424-8220/22/4/1524)
-- more [face rec databases](https://www.face-rec.org/databases/)
+3. Related to Facial Expressions
+  - [Affective Computing](https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange)
+  - more datasets: [here](https://emutivo.wpi.edu/index.php/data/)
+  - [survey](https://www.mdpi.com/1424-8220/22/4/1524)
+  - more [face rec databases](https://www.face-rec.org/databases/)
 
 
 ## 2DO
