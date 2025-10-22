@@ -26,10 +26,9 @@ Notes:
   * [Contact](#contact)
 
 
-## Facial Expression - Image and Video Datasets
-In the following datasets contain images or video with labels of facial expression in no particular order, in the folowing pattern:
+## Notation
 
-Scheme:
+Information is ordered according to the following scheme:
 - name + link
   - short description
   - annotations: ...
@@ -41,6 +40,10 @@ Scheme:
     - 🔒 not publicly available
     - 💰 if payment is required
     - ❌ No longer available 
+
+
+## Facial Expression - Image and Video Datasets
+In the following datasets contain images or video with labels of facial expression in no particular order:
 
 - [Aff-Wild2 database](https://ibug.doc.ic.ac.uk/resources/aff-wild2/)
   - 541 videos of around 2.6M frames (in the wild) (big diversity in terms of subjects' ages, ethnicities and nationalities)
