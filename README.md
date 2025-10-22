@@ -20,7 +20,6 @@ I do not own any of the following databases. For questions about access and deta
     + [Facial Landmarks only](#facial-landmarks-only)
   * [Some Face Models](#some-face-models)
   * [2DO](#2do)
-    + [Human Motion Databases](#human-motion-databases)
   * [Related Sources](#related-sources)
   * [Contact](#contact)
 
@@ -174,13 +173,12 @@ Publicly available models.
 - check all AVEC, e.g. [AVEC2013](https://github.com/chkche1/avec2013), [AVEC2019](https://sites.google.com/view/avec2019/home) for availabilty
 - [Binghamton Face Databases](https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
 
-### Human Motion Databases
-2do: add to another repo
-- [AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training](https://fit3d.imar.ro/)
-- [Human3.6M](http://vision.imar.ro/human3.6m/description.php) 
-
 
 ## Related Sources
+Looking for Human Motion and Sports?
+Check out the [HumanMotionCollection](https://github.com/stellagra/HumanMotionCollection)
+
+Related to FacialExpression and  Motion
 - [Affective Computing](https://github.com/alexandrainst/AffectiveComputingKnowledgeExchange)
 - more datasets: [here](https://emutivo.wpi.edu/index.php/data/)
 - [promising survey](https://www.mdpi.com/1424-8220/22/4/1524)
