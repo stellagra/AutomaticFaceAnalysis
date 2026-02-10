@@ -162,7 +162,7 @@ Datasets with labels related to health and mental health.
   - 📧 available: upon request for academics
 - [YouTube Facial Palsy (YFP) Database](https://sites.google.com/view/yfp-database#h.p_DaUvW9mE7B_g) (2018)
   - 32 videos of 21 patients from YouTube, and a few patients have multiple videos
-  - annotations: Manually labeled local palsy regions, location (eyes, mpouth), intensity (low or high)
+  - annotations: Manually labeled local palsy regions, location (eyes, mouth), intensity (low or high)
   - reference: GEE-SERN JISON HSU, JIUNN-HORNG KANG, WEN-FONG HUANG, Deep Hierarchical Network With Line Segment Learning for Quantitative Analysis of Facial Palsy, IEEE Access, vol. 7, 4833-4842, Dec. 2018
   - 📧 available: upon request for academics
 - [Turkish Audio-Visual Bipolar Disorder Corpus](https://ieeexplore.ieee.org/document/8470362/&ved=2ahUKEwi-1qunureQAxUO2wIHHYG7MOoQFnoECB0QAQ&usg=AOvVaw0Gky0kRbgXgS4vTZKVQ5cC)
