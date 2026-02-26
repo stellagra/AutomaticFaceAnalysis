@@ -79,6 +79,8 @@ In the following datasets contain images or video with labels of facial expressi
   - annotations: FACS, emotions
   - reference: Yap, C.H., Kendrick, C. and Yap, M.H., 2020, November. Samm long videos: A spontaneous facial micro-and macro-expressions dataset. In 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020) (pp. 771-776). IEEE. 
   - 📧 available: upon request
+- [FEAFA+: An Extended Well-Annotated Dataset for Facial Expression Analysis and 3D Facial Animation](https://www.iiplab.net/feafa+/)
+ - tbd
    
 ### Infant Databases
 - [The City Infant Faces Database: A validated set of infant facial expressions (CIF)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5809537/)
@@ -257,7 +259,8 @@ Check out this repository [HumanMotionCollection](https://github.com/stellagra/H
 
 ## 2DO
 - check all AVEC, e.g. [AVEC2013](https://github.com/chkche1/avec2013), [AVEC2019](https://sites.google.com/view/avec2019/home) for availabilty
-- 💰 [Binghamton Face Databases](https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html) 
+- 💰 [Binghamton Face Databases](https://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html)
+- [list of databases](https://mohammadmahoor.com/pages/databases/)
 
 
 
