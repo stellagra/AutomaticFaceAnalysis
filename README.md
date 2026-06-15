@@ -89,7 +89,7 @@ In the following datasets contain images or video with labels of facial expressi
   - annotations: 
   - reference: Webb R, Ayers S, Endress A. The City Infant Faces Database: A validated set of infant facial expressions. Behav Res Methods. 2018 Feb; 50(1):151-159. doi: 10.3758/s13428-017-0859-9. PMID: 28205132; PMCID: PMC5809537 
   - 📧 available: upon request (for researchers)
-- [Tromsø Infant Faces Database )(TIF)](https://uit.no/project/norbaby/database)
+- [Tromsø Infant Faces Database (TIF)](https://uit.no/project/norbaby/database)
   - 119 images of infant facial expressions
   - 18 subjects (age 4-12 months)
   - annotations: 4-7 facial expressions (happy & sad for all, for some: anger, fear, suprise or disgust) validated by over 700 participants 
