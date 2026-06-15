@@ -5,6 +5,7 @@ The intention is to gather datasets which are available. However, dataset which 
 Please note that this repo is under development. Feel free to reach out for additions, and/or corrections. If you find a link or reference is outdated, I am happy to receive your feedback for corrections. 
 
 Notes: 
+- This repository is currently being re-organiseed. All mental health related datasets will soon be removed and moved to [here](https://github.com/stellagra/MentalHealthDatasets).
 - I neither claim completeness nor correctness. No guarantees. 
 - Access rights to the databases might change or licenses might run out. 
 - I do not own any of the following databases. For questions about access and details, please contact the respective authors. 
